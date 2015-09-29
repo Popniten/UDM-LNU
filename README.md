@@ -11,6 +11,7 @@ Här nedan följer en lista med kurser i olika ämnen som kan vara intressanta a
 |------------------------------------------------------|---------|------------------------|----------------|
 |Speldesign                                            |LTU      |7,5hp (25% distans)     |Mediedesign     |
 |Storytelling                                          |LNU      |7,5hp (25% distans)     |Företagsekonomi |
+|Visuellt berättande                                   |LTU      |7,5hp (25% distans)     |Medieproduktion |
 
 ### Företagande och projektledning
 |Kurs                                                  |Lärosäte |HP (studietakt)         |Huvudämne       |
