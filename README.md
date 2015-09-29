@@ -6,6 +6,8 @@ Här nedan följer en lista med kurser i olika ämnen som kan vara intressanta a
 
 |Kurs                                                  |Lärosäte |HP (studietakt) |Huvudämne       |
 |------------------------------------------------------|---------|----------------|----------------|
+|Spelutveckling                                                                                    |
+|--------------------------------------------------------------------------------------------------|
 |Speldesign                                            |LTU      |7,5hp (25%)     |Mediedesign     |
 |Projektledning 1                                      |UMU      |7,5hp (50%)     |Ekonomi?        |
 |Storytelling                                          |LNU      |7,5hp (25%)     |Företagsekonomi |
