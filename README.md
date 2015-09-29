@@ -24,6 +24,13 @@ Här nedan följer en lista med kurser i olika ämnen som kan vara intressanta a
 |------------------------------------------------------|---------|------------------------|----------------|
 |Bild och grafisk design för webben                    |LNU      |7,5hp (25% distans)     |Medieproduktion |
 
+### Övrigt
+|Kurs                                                  |Lärosäte |HP (studietakt)         |Huvudämne       |
+|------------------------------------------------------|---------|------------------------|----------------|
+|Databaser: hantera data för webben <sup>1</sup>       |SH       |7,5hp (50% distans)     |Medieteknik     |
+
+<sup>1</sup> Kanske onödigt likt en kurs vi ska läsa i programmet, men det är i ett annat huvudämne.
+
 ## Idéer till Individuellt mjukvaruprojekt
 
 I den sista kursen på det första läsåret skall vi utveckla ett litet mjukvaruprojekt. Här är en lista med förslag till projekt. Även här är alla välkomna att fylla på med idéer.
