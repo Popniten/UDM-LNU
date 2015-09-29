@@ -7,15 +7,15 @@ Här nedan följer en lista med kurser i olika ämnen som kan vara intressanta a
 ### Spelutveckling
 |Kurs                                                  |Lärosäte |HP (studietakt) |Huvudämne       |
 |------------------------------------------------------|---------|----------------|----------------|
-|Speldesign                                            |LTU      |7,5hp (25%)     |Mediedesign     |
-|Storytelling                                          |LNU      |7,5hp (25%)     |Företagsekonomi |
+|Speldesign                                            |LTU      |7,5hp (25% distans)     |Mediedesign     |
+|Storytelling                                          |LNU      |7,5hp (25% distans)     |Företagsekonomi |
 
 ### Företagande och projektledning
 |Kurs                                                  |Lärosäte |HP (studietakt) |Huvudämne       |
 |------------------------------------------------------|---------|----------------|----------------|
-|Projektledning 1                                      |UMU      |7,5hp (50%)     |Ekonomi?        |
-|Introduktion till företagsekonomi och affärsutveckling|UMU      |7,5hp (100%)    |Företagsekonomi |
-|Marknadsföring                                        |HKR      |7,5hp (50%)     |Företagsekonomi |
+|Projektledning 1                                      |UMU      |7,5hp (50% distans)     |Ekonomi?        |
+|Introduktion till företagsekonomi och affärsutveckling|UMU      |7,5hp (100% distans)    |Företagsekonomi |
+|Marknadsföring                                        |HKR      |7,5hp (50% distans)     |Företagsekonomi |
 
 Jag använder mig av [antagning.se](https://www.antagning.se "Antagning.se") och respektive kurs på lärosätets webbplats för att få fram informationen.
 
