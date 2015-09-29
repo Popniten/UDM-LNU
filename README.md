@@ -1,4 +1,4 @@
-# Utveckling och drift av mjukvarusystem 2015 Linnéuniversitetet
+# Utveckling och drift av mjukvarusystem - 2015 Linnéuniversitetet
 
 ## Kurser i andra ämnen
 
