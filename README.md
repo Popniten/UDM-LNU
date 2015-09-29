@@ -28,4 +28,4 @@ I den sista kursen på det första läsåret skall vi utveckla ett litet mjukvar
 |Kalender                       |Högtidsdagar, påminnelser...                          |                      |
 |Metronom, trummaskin           |Skapa egna/slumpa fram beats, tempo, ackordförslag... |Musikaliskt "korrekt" |
 
-Att tänka på med detta projektet är ju att välja rätt storlek på projektet, så det inte blir för stort att klara av, och inte för litet för att få bra betyg.
+Att tänka på med detta projektet är ju att välja rätt storlek på projektet, så det inte blir för stort att klara av, och inte för litet för att få bra betyg (vad som är _rätt_ storlek kanske inte är så lätt att veta alla gånger).
