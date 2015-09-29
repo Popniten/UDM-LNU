@@ -19,6 +19,11 @@ Här nedan följer en lista med kurser i olika ämnen som kan vara intressanta a
 |Introduktion till företagsekonomi och affärsutveckling|UMU      |7,5hp (100% distans)    |Företagsekonomi |
 |Marknadsföring                                        |HKR      |7,5hp (50% distans)     |Företagsekonomi |
 
+### Design och grafik
+|Kurs                                                  |Lärosäte |HP (studietakt)         |Huvudämne       |
+|------------------------------------------------------|---------|------------------------|----------------|
+|Bild och grafisk design för webben                    |LNU      |7,5hp (25% distans)     |Medieproduktion |
+
 ## Idéer till Individuellt mjukvaruprojekt
 
 I den sista kursen på det första läsåret skall vi utveckla ett litet mjukvaruprojekt. Här är en lista med förslag till projekt. Även här är alla välkomna att fylla på med idéer.
