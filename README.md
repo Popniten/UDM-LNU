@@ -28,7 +28,7 @@ Här nedan följer en lista med kurser i olika ämnen som kan vara intressanta a
 ### Övrigt
 |Kurs                                                  |Lärosäte |HP (studietakt)         |Huvudämne       |
 |------------------------------------------------------|---------|------------------------|----------------|
-|Databaser: hantera data för webben <sup>1</sup>       |SH       |7,5hp (50% distans)     |Medieteknik     |
+|Databaser: hantera data för webben <sup>[1]</sup>       |SH       |7,5hp (50% distans)     |Medieteknik     |
 
 <sup>1</sup> Kanske onödigt likt en kurs vi ska läsa i programmet, men det är i ett annat huvudämne.
 
