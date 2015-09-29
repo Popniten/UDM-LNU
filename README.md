@@ -15,7 +15,7 @@ Här nedan följer en lista med kurser i olika ämnen som kan vara intressanta a
 ### Företagande och projektledning
 |Kurs                                                  |Lärosäte |HP (studietakt)         |Huvudämne       |
 |------------------------------------------------------|---------|------------------------|----------------|
-|Projektledning 1                                      |UMU      |7,5hp (50% distans)     |Ekonomi?        |
+|Projektledning 1                                      |UMU      |7,5hp (50% distans)     |Inget huvudämne |
 |Introduktion till företagsekonomi och affärsutveckling|UMU      |7,5hp (100% distans)    |Företagsekonomi |
 |Marknadsföring                                        |HKR      |7,5hp (50% distans)     |Företagsekonomi |
 
