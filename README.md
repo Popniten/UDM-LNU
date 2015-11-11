@@ -24,11 +24,12 @@ Sorterade efter intresseområde.
 |Kurs                                                  |Lärosäte |HP (studietakt)         |Huvudämne       |
 |------------------------------------------------------|---------|------------------------|----------------|
 |Bild och grafisk design för webben                    |LNU      |7,5hp (25% distans)     |Medieproduktion |
+|Typografi, form och grafiska verktyg                  |LNU      |15hp (50% distans)      |Design/formgivn.|
 
 ### Övrigt
 |Kurs                                                  |Lärosäte |HP (studietakt)         |Huvudämne       |
 |------------------------------------------------------|---------|------------------------|----------------|
-|Databaser: hantera data för webben <sup>[1]</sup>       |SH       |7,5hp (50% distans)     |Medieteknik     |
+|Databaser: hantera data för webben <sup>[1]</sup>     |SH       |7,5hp (50% distans)     |Medieteknik     |
 
 <sup>1</sup> Kanske onödigt likt en kurs vi ska läsa i programmet, men det är i ett annat huvudämne.
 
@@ -40,3 +41,4 @@ Sorterade efter intresseområde.
 |Datorspel                      |Simpel fysik, grafik, olika banor...                  |                      |
 |Kalender                       |Högtidsdagar, påminnelser...                          |                      |
 |Metronom, trummaskin           |Skapa egna/slumpa fram beats, tempo, ackordförslag... |Musikaliskt "korrekt" |
+|Casino                         |Olika typer av spel, betting...                       |                      |
