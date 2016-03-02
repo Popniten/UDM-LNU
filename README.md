@@ -8,37 +8,37 @@ Utbildningsplan för studenter i programmet **Utveckling och drift av mjukvarusy
 
 |Kurs                                                      |Termin/läsperiod   |
 |----------------------------------------------------------|-------------------|
-|[Webbteknik 1]()                                          |HT/LP1             |
-|[Grundläggande programmering]()                           |HT/LP1             |
-|[Klientbaserad webbprogrammering]()                       |HT/LP2             |
-|[Problemlösning och programmering]()                      |HT/LP2             |
-|[Programvaruteknik]()                                     |VT/LP1             |
-|[Problemlösning och datastrukturer]()                     |VT/LP1             |
-|[Systemadministration 1]()                                |VT/LP2             |
-|[Individuellt mjukvaruprojekt]()                          |VT/LP2             |
+|[Webbteknik 1](#)                                          |HT/LP1             |
+|[Grundläggande programmering](#)                           |HT/LP1             |
+|[Klientbaserad webbprogrammering](#)                       |HT/LP2             |
+|[Problemlösning och programmering](#)                      |HT/LP2             |
+|[Programvaruteknik](#)                                     |VT/LP1             |
+|[Problemlösning och datastrukturer](#)                     |VT/LP1             |
+|[Systemadministration 1](#)                                |VT/LP2             |
+|[Individuellt mjukvaruprojekt](#)                          |VT/LP2             |
 
 ### Årskurs 2
 
 |Kurs                                                      |Termin/läsperiod   |
 |----------------------------------------------------------|-------------------|
-|[Systemadministration 2]()                                |HT/LP1             |
-|[Objektorienterad analys och design med UML]()            |HT/LP1             |
-|[Mjukvarutestning]()                                      |HT/LP2             |
-|[Databasteknik]()                                         |HT/LP2             |
-|[Serverbaserad webbprogrammering]()                       |VT/LP1             |
-|[Programvaruteknik - Design]()                            |VT/LP1-LP2         |
-|[Självständigt arbete/Valfri kurs i annat ämne]()         |VT/LP2             |
+|[Systemadministration 2](#)                                |HT/LP1             |
+|[Objektorienterad analys och design med UML](#)            |HT/LP1             |
+|[Mjukvarutestning](#)                                      |HT/LP2             |
+|[Databasteknik](#)                                         |HT/LP2             |
+|[Serverbaserad webbprogrammering](#)                       |VT/LP1             |
+|[Programvaruteknik - Design](#)                            |VT/LP1-LP2         |
+|[Självständigt arbete/Valfri kurs i annat ämne](#)         |VT/LP2             |
 
 ### Årskurs 3
 
 |Kurs                                                      |Termin/läsperiod   |
 |----------------------------------------------------------|-------------------|
-|[Server configuration management]()                       |HT/LP1             |
-|[Internetsäkerhet]()                                      |HT/LP1             |
-|[Continuous delivery]()                                   |HT/LP2             |
-|[Programvaruarkitekturer]()                               |HT/LP2             |
-|[Valfri kurs i annat ämne]()                              |VT/LP1             |
-|[Examensarbete]()                                         |VT/LP1-LP2         |
+|[Server configuration management](#)                       |HT/LP1             |
+|[Internetsäkerhet](#)                                      |HT/LP1             |
+|[Continuous delivery](#)                                   |HT/LP2             |
+|[Programvaruarkitekturer](#)                               |HT/LP2             |
+|[Valfri kurs i annat ämne](#)                              |VT/LP1             |
+|[Examensarbete](#)                                         |VT/LP1-LP2         |
 |[Entreprenörskap och verksamhetsutveckling](http://lnu.se/utbildning/kurser/1FE053) |VT/LP2             |
 
 ## Idéer till Individuellt mjukvaruprojekt
