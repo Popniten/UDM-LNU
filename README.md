@@ -1,3 +1,16 @@
+## Idéer till Individuellt mjukvaruprojekt
+
+I sista läsperioden i utbildningens första läsår ska vi göra ett individuellt projekt i valfritt språk.
+Här listas ett antal idéer till detta projekt om man har svårt att komma på några själv.
+
+|Projektidé                     |Innehåll                                              |Kommentar             |
+|-------------------------------|------------------------------------------------------|----------------------|
+|HTML/CSS Editor (IDE)          |Syntax highlighting, code completion, validator...    |                      |
+|Datorspel                      |Simpel fysik, grafik, olika banor...                  |                      |
+|Kalender                       |Högtidsdagar, påminnelser...                          |                      |
+|Metronom, trummaskin           |Skapa egna/slumpa fram beats, tempo, ackordförslag... |Musikaliskt "korrekt" |
+|Casino                         |Olika typer av spel, betting...                       |                      |
+
 ## Kurser i andra ämnen
 
 Under andra läsåret så är det i höstterminens andra läsperiod som det är planerat att
