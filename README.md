@@ -1,64 +1,6 @@
-# Utveckling och drift av mjukvarusystem
-
-Utbildningsplan för studenter i programmet **Utveckling och drift av mjukvarusystem** vid Linnéuniversitetet.
-
-## Kursplan
-
-### Årskurs 1
-
-|Kurs                                                      |Termin/läsperiod   |
-|----------------------------------------------------------|-------------------|
-|[Webbteknik 1](#)                                          |HT/LP1             |
-|[Grundläggande programmering](#)                           |HT/LP1             |
-|[Klientbaserad webbprogrammering](#)                       |HT/LP2             |
-|[Problemlösning och programmering](#)                      |HT/LP2             |
-|[Programvaruteknik](#)                                     |VT/LP1             |
-|[Problemlösning och datastrukturer](#)                     |VT/LP1             |
-|[Systemadministration 1](#)                                |VT/LP2             |
-|[Individuellt mjukvaruprojekt](#)                          |VT/LP2             |
-
-### Årskurs 2
-
-|Kurs                                                      |Termin/läsperiod   |
-|----------------------------------------------------------|-------------------|
-|[Systemadministration 2](#)                                |HT/LP1             |
-|[Objektorienterad analys och design med UML](#)            |HT/LP1             |
-|[Mjukvarutestning](#)                                      |HT/LP2             |
-|[Databasteknik](#)                                         |HT/LP2             |
-|[Serverbaserad webbprogrammering](#)                       |VT/LP1             |
-|[Programvaruteknik - Design](#)                            |VT/LP1-LP2         |
-|[Självständigt arbete/Valfri kurs i annat ämne](#)         |VT/LP2             |
-
-### Årskurs 3
-
-|Kurs                                                      |Termin/läsperiod   |
-|----------------------------------------------------------|-------------------|
-|[Server configuration management](#)                       |HT/LP1             |
-|[Internetsäkerhet](#)                                      |HT/LP1             |
-|[Continuous delivery](#)                                   |HT/LP2             |
-|[Programvaruarkitekturer](#)                               |HT/LP2             |
-|[Valfri kurs i annat ämne](#)                              |VT/LP1             |
-|[Examensarbete](#)                                         |VT/LP1-LP2         |
-|[Entreprenörskap och verksamhetsutveckling](http://lnu.se/utbildning/kurser/1FE053) |VT/LP2             |
-
-## Idéer till Individuellt mjukvaruprojekt
-
-I sista läsperioden i utbildningens första läsår ska vi göra ett individuellt projekt i valfritt språk.
-Här listas ett antal idéer till detta projekt om man har svårt att komma på några själv.
-
-|Projektidé                     |Innehåll                                              |Kommentar             |
-|-------------------------------|------------------------------------------------------|----------------------|
-|HTML/CSS Editor (IDE)          |Syntax highlighting, code completion, validator...    |                      |
-|Datorspel                      |Simpel fysik, grafik, olika banor...                  |                      |
-|Kalender                       |Högtidsdagar, påminnelser...                          |                      |
-|Metronom, trummaskin           |Skapa egna/slumpa fram beats, tempo, ackordförslag... |Musikaliskt "korrekt" |
-|Casino                         |Olika typer av spel, betting...                       |                      |
-
 ## Kurser i andra ämnen
 
-För att få en kandidatexamen vid Linnéuniversitetet så skall man ha läst minst 30hp i ett annat huvudämne än
-det som programmet har (som är datavetenskap). Så här listas ett antal kurser som förslag till vad man kan läsa
-som komplement till UDM. Under andra läsåret så är det i höstterminens andra läsperiod som det är planerat att
+Under andra läsåret så är det i höstterminens andra läsperiod som det är planerat att
 läsa en valfri kurs, och i tredje året så är det i höstterminens första läsperiod som man ska läsa en valfri 
 kurs (och under andra läsperioden om man skulle välja bort Entreprenörsskap). Så kursförslagen här är listade
 efter intresseområde (denna lista är dock preliminär och kan ändras då olika lärosäten kan ändra kurstillfällen).
