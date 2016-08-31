@@ -44,6 +44,7 @@ efter intresseområde (denna lista är dock preliminär och kan ändras då olik
 |------------------------------------------------------|---------|---------------------------|----------------|
 |[Att skriva för webben och interaktiva medier](http://www.sh.se/p3/ext/content.nsf/aget?openagent&key=sh_course_page_1081ME) | SH | 7,5hp/50%/VT-LP1 | Medieteknik |
 |[Digital grafik](http://www.hv.se/sv/utbildning/kurser?course=15506&event=20664) | HV | 7,5hp/50%/VT-LP1 | Medieproduktion |
+|[Grundläggande 3D-grafisk modellering](http://www.hv.se/sv/utbildning/kurser?course=15505&event=20663)|HV|7,5hp/50%/VT-LP2|Medieproduktion|
 
 ### Interaktionsdesign
 
